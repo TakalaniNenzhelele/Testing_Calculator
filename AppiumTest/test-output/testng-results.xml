@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19773" started-at="2020-10-16T20:20:32 CAT" finished-at="2020-10-16T20:20:52 CAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19773" started-at="2020-10-16T20:20:32 CAT" finished-at="2020-10-16T20:20:52 CAT">
+      <class name="appiumTest.calculator">
+        <test-method status="PASS" signature="calculate()[pri:0, instance:appiumTest.calculator@71bbf57e]" name="calculate" duration-ms="19699" started-at="2020-10-16T20:20:32 CAT" finished-at="2020-10-16T20:20:52 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculate -->
+      </class> <!-- appiumTest.calculator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
